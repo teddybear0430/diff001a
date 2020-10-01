@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+- ⚡ I'm a Web Designer & Engineer from Japan
+- 🌱 I'm currently learning Laravel
+- ❤️ I love coding, cats, and Hanshin Tigers⚾️
+- 📝 My Blog: https://diff001a.netlify.app/
+- 📫 My Email: diff001a@gmail.com
+
+### My github status
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diff001a&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diff001a&count_private=true&show_icons=true&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diff001a" />
