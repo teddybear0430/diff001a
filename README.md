@@ -30,12 +30,12 @@
 
 ## My github status
 
-<div>
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=diff001a&count_private=true&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=diff001a&count_private=true&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diff001a&theme=dracula&langs_count=3&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diff001a&theme=dracula&langs_count=3&show_icons=true" />
   </a>
-</div>
+</p>
 
