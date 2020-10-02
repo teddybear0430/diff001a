@@ -6,6 +6,17 @@
 - 📝 My Blog: https://diff001a.netlify.app/
 - 📫 My Email: diff001a@gmail.com
 
+## My github status
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=diff001a&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diff001a&theme=dracula&langs_count=3&show_icons=true" />
+  </a>
+</p>
+
 ## Languages and Tools:
 
 <p align="left">
@@ -26,16 +37,5 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
-## My github status
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=diff001a&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diff001a&theme=dracula&langs_count=3&show_icons=true" />
-  </a>
 </p>
 
